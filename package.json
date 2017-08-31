@@ -24,9 +24,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ionic-team/stencil-starter.git"
+    "url": "https://github.com/ospatil/stencil-greeter.git"
   },
   "author": "Omkar Patil <ospatil@gmail.com> (https://github.com/ospatil)",
   "license": "MIT",
-  "homepage": "https://github.com/ionic-team/stencil"
+  "homepage": "https://github.com/ospatil/stencil-greeter.git"
 }
