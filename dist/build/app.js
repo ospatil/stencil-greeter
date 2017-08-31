@@ -1,0 +1,2 @@
+/*! Built with http://stenciljs.com */
+!function(e,t,i,n,s,p,a){(e.App=e.App||{}).components=p=p||[],(a=t.createElement("style")).setAttribute("data-styles",""),a.innerHTML=(p.map(function(e){return e[0]}).join(",")+"{visibility:hidden}.💎{visibility:inherit}").toLowerCase(),t.head.insertBefore(a,t.head.firstChild),(a=t.createElement("script")).src=e.customElements&&e.fetch?"/dist/build/app/app.f1af2cyy.js":"/dist/build/app/app.4krvkct5.pf.js",t.head.appendChild(a)}(window,document,0,0,0,[["STENCIL-GREETER","s4nwzwqv",{$:"s9xcxyt6"},[["greeting",1]]]]);

@@ -1,0 +1,32 @@
+{
+  "name": "stencil-greeter",
+  "private": true,
+  "version": "0.1.0",
+  "description": "StencilJS greeting message component",
+  "main": "dist/collection/index.js",
+  "types": "dist/collection/index.d.ts",
+  "collection": "dist/collection/collection-manifest.json",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "stencil build",
+    "dev": "sd concurrent \"stencil build --dev --watch\" \"stencil-dev-server\" ",
+    "serve": "stencil-dev-server",
+    "start": "npm run dev"
+  },
+  "dependencies": {
+    "@stencil/core": "next"
+  },
+  "devDependencies": {
+    "@stencil/dev-server": "latest",
+    "@stencil/utils": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/stencil-starter.git"
+  },
+  "author": "Omkar Patil <ospatil@gmail.com> (https://github.com/ospatil)",
+  "license": "MIT",
+  "homepage": "https://github.com/ionic-team/stencil"
+}
