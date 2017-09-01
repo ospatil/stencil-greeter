@@ -1,6 +1,6 @@
 exports.config = {
-  buildDir: 'dist/build',
-  publicPath: '/dist/build',
+  buildDir: 'lib/build',
+  publicPath: '/lib/build',
   bundles: [
     { components: ['stencil-greeter'] }
   ]

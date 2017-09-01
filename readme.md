@@ -1,6 +1,6 @@
-# Stencil Greeter App
+# Stencil Greeter Component
 
-Stencil application that contains `stencil-greeter` component to be used in an Angular demo app.
+`stencil-greeter` component to be used in an Angular demo.app.
 ## Getting Started
 
 ```bash
