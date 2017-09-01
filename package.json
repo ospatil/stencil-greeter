@@ -1,7 +1,7 @@
 {
   "name": "stencil-greeter",
   "private": true,
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "StencilJS greeting message component",
   "main": "dist/collection/index.js",
   "types": "dist/collection/index.d.ts",
